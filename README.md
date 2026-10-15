@@ -35,10 +35,10 @@ Proyecto de Deep Learning con **datos secuenciales (texto)**: una red recurrente
 
 | Métrica (test) | Valor |
 |---|---|
-| Modelo ganador | _LSTM / GRU_ |
-| Accuracy | _XX %_ |
-| F1 | _XX_ |
-| ROC-AUC | _XX_ |
+| Modelo ganador | LSTM |
+| Accuracy | 89.5% |
+| F1 | 0.8974 |
+| ROC-AUC | 0.9581 |
 
 ![Curvas](reports/training_curves.png)
 ![Matriz de confusión](reports/confusion_matrix.png)
